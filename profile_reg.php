@@ -81,7 +81,8 @@
                 <label for="profile-image">Profile image</label>
                 <input type="file" class="form-control-file" name="profile_image" id="profile-image">
             </div>
-            <input class="btn btn-primary" type="button" value="Submit" name="submit">
+            <button class="btn btn-primary" name="submit" type="submit">Submit</button>
+            <!-- <input > -->
         </form>
     </div>
 </body>
